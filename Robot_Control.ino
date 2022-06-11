@@ -1,5 +1,5 @@
-#define BLYNK_TEMPLATE_ID "TMPL0D2T-hLH"
-#define BLYNK_DEVICE_NAME "Robot Control"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_DEVICE_NAME ""
 #define BLYNK_FIRMWARE_VERSION        "0.1.0"
 #define BLYNK_PRINT Serial
 #define APP_DEBUG
